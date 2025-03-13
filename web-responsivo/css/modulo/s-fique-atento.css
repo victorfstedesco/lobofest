@@ -1,0 +1,21 @@
+.atento{
+    background-image: url(../../assets/back-view-crowd-fans-watching-live-performance-music-concert-night-copy-space.jpg);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 21.88%, #000 100%), url(<path-to-image>) lightgray 50% / cover no-repeat, #D9D9D9;
+    padding: 0px 16px 0px 16px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 64px 24px 64px 24px;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+}
+
+.atento h1{
+    font-size: 64px;
+}
+
+.atento span{
+    font-size: 16px;
+}
