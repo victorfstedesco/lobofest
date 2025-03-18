@@ -7,7 +7,17 @@
 }
 
 .hero h1{
+    text-wrap: wrap;
+    width: fit-content;
     font-size: 48px;
     color: white;
 }
+
+@media (min-width: 768px){
+    .hero h1{
+        width: 640px;
+        font-size: 48px;
+        color: white;
+    }
+  }
 

@@ -5,6 +5,7 @@
 @import url(./layout/s-hero.css);
 @import url(./layout/s-shows.css);
 @import url(./layout/s-loja.css);
+@import url(./layout/s-footer.css);
 
 
 @import url(./modulo/s-hero.css);
@@ -12,7 +13,5 @@
 @import url(./modulo/swiper.css);
 @import url(./modulo/s-fique-atento.css);
 @import url(./modulo/s-loja.css);
-
-
-
+@import url(./modulo/footer.css);
 

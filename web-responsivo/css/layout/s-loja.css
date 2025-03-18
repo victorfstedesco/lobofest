@@ -1,3 +1,10 @@
 .loja-shows{
     padding: 0px 16px 0px 16px;
 }
+
+@media (min-width: 768px){
+    .loja-shows{
+        padding: 0px 48px 0px 48px;
+    }
+    
+  }

@@ -1,0 +1,20 @@
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 48px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-left: clamp(16px, 16px, 128px);
+}
+
+@media (min-width: 768px){
+    footer{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 48px;
+        padding-top: 48px;
+        padding-bottom: 48px;
+        padding-left: 48px;
+    }
+    
+  }

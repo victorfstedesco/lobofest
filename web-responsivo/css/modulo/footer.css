@@ -1,0 +1,17 @@
+
+.c-footer{
+    display: flex;
+    flex-direction: column;
+
+    gap: 12px;
+}
+
+.c-footer h1{
+    font-size: 20px;
+    color: white;
+}
+
+.c-footer span{
+    font-size: 16px;
+    color: #a1a1a1;
+}
